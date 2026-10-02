@@ -1,1 +1,92 @@
-'' 
+[
+  {
+    "sku_id": "SKU-CHAIR-01",
+    "name": "Ergonomic Office Chair",
+    "brand": "ErgoMax",
+    "category": "furniture",
+    "price_paise": 420000,
+    "gst_rate_percent": 18,
+    "stock": 50,
+    "description": "Adjustable lumbar support, mesh back, 5-year warranty"
+  },
+  {
+    "sku_id": "SKU-KEYBOARD-01",
+    "name": "Mechanical Keyboard",
+    "brand": "KeyPro",
+    "category": "computer accessories",
+    "price_paise": 349900,
+    "gst_rate_percent": 18,
+    "stock": 100,
+    "description": "Mechanical keyboard for desktop computers"
+  },
+  {
+    "sku_id": "SKU-LAPTOP-01",
+    "name": "Laptop",
+    "brand": "TechNova",
+    "category": "computers",
+    "price_paise": 5500000,
+    "gst_rate_percent": 18,
+    "stock": 10,
+    "description": "Laptop computer for work and everyday use"
+  },
+  {
+    "sku_id": "SKU-DESK-01",
+    "name": "Standing Desk",
+    "brand": "DeskPro",
+    "category": "furniture",
+    "price_paise": 750000,
+    "gst_rate_percent": 18,
+    "stock": 30,
+    "description": "Height-adjustable standing desk with a spacious work surface"
+  },
+  {
+    "sku_id": "SKU-MOUSE-01",
+    "name": "Wireless Mouse",
+    "brand": "ClickTech",
+    "category": "computer accessories",
+    "price_paise": 25000,
+    "gst_rate_percent": 18,
+    "stock": 100,
+    "description": "Wireless mouse with ergonomic design and long battery life"
+  },
+  {
+    "sku_id": "SKU-HEADPHONES-01",
+    "name": "Noise-Cancelling Headphones",
+    "brand": "SoundMaster",
+    "category": "audio",
+    "price_paise": 150000,
+    "gst_rate_percent": 18,
+    "stock": 40,
+    "description": "Over-ear headphones with active noise cancellation"
+  },
+  {
+    "sku_id": "SKU-MONITOR-01",
+    "name": "27-inch Monitor",
+    "brand": "ViewPoint",
+    "category": "computer accessories",
+    "price_paise": 1800000,
+    "gst_rate_percent": 18,
+    "stock": 25,
+    "description": "High-resolution monitor for work and entertainment"
+  },
+  {
+    "sku_id": "SKU-WEBCAM-01",
+    "name": "HD Webcam",
+    "brand": "ClearView",
+    "category": "computer accessories",
+    "price_paise": 65000,
+    "gst_rate_percent": 18,
+    "stock": 60,
+    "description": "High-definition webcam for video calls and streaming"
+  },
+  {
+    "sku_id": "SKU-LAMP-01",
+    "name": "LED Desk Lamp",
+    "brand": "BrightHome",
+    "category": "home office",
+    "price_paise": 45000,
+    "gst_rate_percent": 18,
+    "stock": 75,
+    "description": "Adjustable LED lamp for comfortable desk lighting"
+  }
+]
