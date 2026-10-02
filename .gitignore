@@ -1,0 +1,15 @@
+# Personal build guide: stays on this machine, never in the public repo
+GUIDE.md
+GUIDE.pdf
+
+# Secrets: Razorpay keys live here
+.env
+
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local SQLite database (orders and quotes from your own testing)
+*.db
