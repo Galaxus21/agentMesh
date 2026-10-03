@@ -2,6 +2,7 @@
 GUIDE.md
 GUIDE.pdf
 
+.agents
 # Secrets: Razorpay keys live here
 .env
 
